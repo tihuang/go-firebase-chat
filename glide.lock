@@ -1,0 +1,6 @@
+hash: df7275a64e29761a9f5ba4091c508bce05afed1f8c1b11ee549569a7ccfa5764
+updated: 2017-12-10T21:38:28.148806-08:00
+imports:
+- name: goji.io
+  version: 0d89ff54b2c18c9c4ba530e32496aef902d3c6cd
+testImports: []
